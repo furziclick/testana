@@ -1,6 +1,4 @@
 # testana
-training 
+training
 trying the Readme File
-
-
-
+edit
